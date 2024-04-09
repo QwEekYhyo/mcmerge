@@ -1,4 +1,8 @@
+# Built files
 *.pyc
 *.pyo
 build/
 dist/
+
+# Python virtual environment
+.venv
